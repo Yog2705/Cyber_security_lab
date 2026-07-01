@@ -26,10 +26,6 @@ https://drive.google.com/drive/folders/1JJLH_yRni3Va17ik2IQBjAnyO_idvmH3?usp=sha
 
 ---
 
-## Reports
-
-- Outdated Server CTF Report
-- Dhanush CTF Report
 
 ---
 
